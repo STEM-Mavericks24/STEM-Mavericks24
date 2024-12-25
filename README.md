@@ -27,7 +27,7 @@
     
     
     
- [![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul)
+ [![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/udnltmw550oycfnr48fxjd8q5)
  <br>
  
 ![Totals Hits](https://komarev.com/ghpvc/?username=STEM-Mavericks24&style=flat&color=orange&label=PROFILE+VIEWS)
